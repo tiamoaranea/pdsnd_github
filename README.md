@@ -21,3 +21,8 @@ It is the 2nd. change to test the git command
 
 ### Updates3
 It is the 3rd. change to test the git command
+
+### New update to meet the reviewer’s requirements
+
+### documentation for bug fix No.1
+Here is the information for bug fix No.1
