@@ -29,3 +29,6 @@ Here is the information for bug fix No.1
 
 ### documentation for bug fix No.2
 Here is the information for bug fix No.2
+
+### documentation for new requirement No.16
+Here is the information for requirement No.16
