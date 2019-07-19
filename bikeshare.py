@@ -5,6 +5,8 @@
 
 # this part is for bug fix No.1
 
+# this part is for bug fix No.2
+
 import time
 import pandas as pd
 import numpy as np
