@@ -26,3 +26,6 @@ It is the 3rd. change to test the git command
 
 ### documentation for bug fix No.1
 Here is the information for bug fix No.1
+
+### documentation for bug fix No.2
+Here is the information for bug fix No.2
