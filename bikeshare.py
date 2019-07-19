@@ -1,5 +1,10 @@
 # refactoring code
 # refactoring code update 2nd. time
+
+# the following changes are to meet the reviewer's requirements
+
+# this part is for bug fix No.1
+
 import time
 import pandas as pd
 import numpy as np
